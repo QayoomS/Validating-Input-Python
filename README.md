@@ -19,12 +19,19 @@ Once a valid number within range is entered, the program confirms and ends.
 
 🧠 Example
 Pick an integer between 1 and 10 : 15
+
 Your integer is not between 1 and 10
+
 Pick an integer between 1 and 10 : five
-You did not enter a valid integer
+
+You did not enter a valid integer 
+
 Pick an integer between 1 and 10 : 7
-Your integer is between 1 and 10
+
+Your integer is between 1 and 10 
+
 Program completed. you chose: 7
+
 
 🛠️ Requirements
 
