@@ -49,5 +49,7 @@ min_n, max_n = 1, 10
 
 📄 License
 
-This project is open-source and available under the MIT License
-.
+This project is open-source and available under the MIT License. 
+
+Inspired by:
+University of Galway, Foundamental of Python lecture notes.
